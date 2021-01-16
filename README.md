@@ -1,4 +1,7 @@
 16/01/2021 08:36
+
+**vous ne faites rien sans mon accord please. on doit etre synchro**
+
 # Meeting
 - [ ] 10H : restore et distribution tâches
 
