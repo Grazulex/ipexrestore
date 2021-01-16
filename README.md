@@ -27,23 +27,27 @@
 - - [X] restart & check Corse : **ALL** 
 - - [X] restart & check Namur2 : **ALL** 
 - - [X] restart & check La Louviere : **ALL** 
-- - [ ] restart & check Grimbergen APRES IMPORTATION : **ALL** 
-- - [ ] restart & check Maraidsous APRES IMPORTATION : **ALL** 
-- - [ ] restart & check Madeira : **ALL** 
+- - [X] restart & check Madeira : **ALL** 
 - - [X] restart & check Herstal : **ALL** 
 - [ ] restart PrintPack : Julien J
 - [X] restart Mailid : Julien J
-- [ ] restart webhook chez Mailjet : **isma**
-- [ ] restart Cron Linux APRES IMPORTATION : **Jimmy**
 - [ ] check Observium : 
 - - [ ] api : **isma**
 - - [X] infra : **zak**
 - [ ] check logs error
 
 # Step 2 : check old job OR import from elastic
-- [ ] DB : éffacer/mettre en test les jobs toujours temp du **14**/1 : **isma/jimmy**
-- [ ] DB : importer depuis elastic : **isma/jimmy**
-- [X] PrintPack : éffacer/renommer les jobs toujours ouvert du 15/1 : Julien J
+- [ ] DB.a : éffacer/mettre en test les jobs toujours temp du **14**/1 : **isma/jimmy**
+OR
+- [ ] DB.b : importer depuis elastic : **isma/jimmy**
+
+- --[X] PrintPack : éffacer/renommer les jobs toujours ouvert du 15/1 : Julien J--
+
+# Step 2b : last start AFTER import data
+- [ ] restart & check Grimbergen APRES IMPORTATION : **ALL** 
+- [ ] restart & check Maraidsous APRES IMPORTATION : **ALL** 
+- [ ] restart webhook chez Mailjet APRES IMPORTATION : **isma**
+- [ ] restart Cron Linux APRES IMPORTATION : **Jimmy**
 
 # Step 3 : SFTP/LPR
 - [ ] restart SFTP/LPR
