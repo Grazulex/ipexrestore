@@ -5,7 +5,8 @@
 # Meeting
 - [X] 10H : restore et distribution tâches
 - [X] 15H : final check system up/running
-- [ ] 16h30 : check import from elastic
+- [X] 16h30 : check import from elastic
+- [ ] 18h30 : restart FTP/LPR
 
 # contact
 - [ ] si problème printpack / mailid : contactez JJ please
