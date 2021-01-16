@@ -10,7 +10,7 @@
 - [ ] si problème printpack / mailid : contactez JJ please
 
 # Step 0 : inventory
-- [ ] il y a encore des crons qui tourne ? (voir les erreurs mails) merci de les identifier pour next time : **?**
+- [ ] il y a encore des crons qui tourne ? (voir les erreurs mails) merci de les identifier pour next time : **jimmy**
 
 # Step 1 : system up
 - [ ] restore db
