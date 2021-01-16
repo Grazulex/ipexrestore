@@ -88,5 +88,12 @@ Preference pour solution 1
 - - - [ ] KEVIN.MARISCHAL@ORES.BE
 - - [ ] check system  : **?**
 
+## Clients ayant tournés le weekend dernier :
+- [ ] UCM
+- [ ] KidsLife
+- [ ] Verisure
+- [ ] Luris
+- [ ] Mega
+- [ ] EuropA
 * * *
 # lundi : analyse de l'incident
