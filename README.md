@@ -25,7 +25,7 @@
 - - [X] restart & check wixhou : **ALL**  
 - - [X] restart & check Nivelles : **ALL** 
 - - [X] restart & check Corse : **ALL** 
-- - [C] restart & check Namur2 : **ALL** 
+- - [X] restart & check Namur2 : **ALL** 
 - - [ ] restart & check La Louviere : **ALL** 
 - - [ ] restart & check Grimbergen : **ALL** 
 - - [ ] restart & check Maraidsous : **ALL** 
