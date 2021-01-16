@@ -4,7 +4,7 @@
 
 # Meeting
 - [X] 10H : restore et distribution tâches
-- [ ] 11H15 : final check system up/running
+- [ ] 11H50 : final check system up/running
 
 # contact
 - [ ] si problème printpack / mailid : contactez JJ please
