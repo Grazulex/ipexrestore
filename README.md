@@ -14,7 +14,7 @@
 - [ ] il y a encore des crons qui tourne ? (voir les erreurs mails) merci de les identifier pour next time : **jimmy**
 
 # Step 1 : system up
-- [ ] restore db
+- [X] restore db
 - - [X] restore : Alexis
 - - [X] replication cluster : Alexis
 - - [X] check data : **Isma**
