@@ -18,6 +18,7 @@
 - - [X] replication cluster : Alexis
 - - [ ] check data : **Isma**
 - [ ] restart PP
+- - [X] restart ohain : **zak**
 - - [ ] restart & check Charleroi : **ALL** 
 - - [ ] restart & check Rochefort : **ALL** 
 - - [ ] restart & check wixhou : **ALL**  
