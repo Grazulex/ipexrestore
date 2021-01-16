@@ -101,5 +101,7 @@ Preference pour solution 1
 - [ ] Luris
 - [ ] Mega
 - [ ] EuropA
+- [ ] MultiSend
+- [ ] FamiWal
 * * *
 # lundi : analyse de l'incident
