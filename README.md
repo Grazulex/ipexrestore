@@ -40,8 +40,9 @@
 - - [X] infra : **zak**
 - [ ] check logs error
 
-# Step 2 : check old job
+# Step 2 : check old job OR import from elastic
 - [ ] DB : éffacer/mettre en test les jobs toujours temp du **14**/1 : **isma/jimmy**
+- [ ] DB : importer depuis elastic : **isma/jimmy**
 - [X] PrintPack : éffacer/renommer les jobs toujours ouvert du 15/1 : Julien J
 
 # Step 3 : SFTP/LPR
