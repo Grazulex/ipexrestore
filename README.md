@@ -38,10 +38,8 @@
 
 # Step 2 : check old job OR import from elastic
 - [ ] DB.a : éffacer/mettre en test les jobs toujours temp du **14**/1 : **isma/jimmy**
-OR
 - [ ] DB.b : importer depuis elastic : **isma/jimmy**
-
-- --[X] PrintPack : éffacer/renommer les jobs toujours ouvert du 15/1 : Julien J--
+- [X] PrintPack : éffacer/renommer les jobs toujours ouvert du 15/1 : Julien J--
 
 # Step 2b : last start AFTER import data
 - [ ] restart & check Grimbergen APRES IMPORTATION : **ALL** 
