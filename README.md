@@ -37,7 +37,7 @@
 - [ ] restart Cron Linux : **Jimmy**
 - [ ] check Observium : 
 - - [ ] api : **isma**
-- - [ ] infra : **zak**
+- - [X] infra : **zak**
 - [ ] check logs error
 
 # Step 2 : check old job
