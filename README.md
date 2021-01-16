@@ -26,7 +26,7 @@
 - - [X] restart & check Nivelles : **ALL** 
 - - [X] restart & check Corse : **ALL** 
 - - [X] restart & check Namur2 : **ALL** 
-- - [ ] restart & check La Louviere : **ALL** 
+- - [X] restart & check La Louviere : **ALL** 
 - - [ ] restart & check Grimbergen : **ALL** 
 - - [ ] restart & check Maraidsous : **ALL** 
 - - [ ] restart & check Madeira : **ALL** 
