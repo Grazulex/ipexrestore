@@ -6,7 +6,8 @@
 - [X] 10H : restore et distribution tâches
 - [X] 15H : final check system up/running
 - [X] 16h30 : check import from elastic
-- [ ] 18h30 : restart FTP/LPR
+- [X] 18h30 : restart FTP/LPR
+- [ ] 19h : confirmation Partena/Ores
 
 # contact
 - [ ] si problème printpack / mailid : contactez JJ please
