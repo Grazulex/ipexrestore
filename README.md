@@ -27,14 +27,14 @@
 - - [X] restart & check Corse : **ALL** 
 - - [X] restart & check Namur2 : **ALL** 
 - - [X] restart & check La Louviere : **ALL** 
-- - [ ] restart & check Grimbergen : **ALL** 
-- - [ ] restart & check Maraidsous : **ALL** 
+- - [ ] restart & check Grimbergen APRES IMPORTATION : **ALL** 
+- - [ ] restart & check Maraidsous APRES IMPORTATION : **ALL** 
 - - [ ] restart & check Madeira : **ALL** 
 - - [X] restart & check Herstal : **ALL** 
 - [ ] restart PrintPack : Julien J
 - [X] restart Mailid : Julien J
 - [ ] restart webhook chez Mailjet : **isma**
-- [ ] restart Cron Linux : **Jimmy**
+- [ ] restart Cron Linux APRES IMPORTATION : **Jimmy**
 - [ ] check Observium : 
 - - [ ] api : **isma**
 - - [X] infra : **zak**
