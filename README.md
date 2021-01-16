@@ -20,7 +20,7 @@
 - - [X] check data : **Isma**
 - [ ] restart PP
 - - [X] restart ohain : **zak**
-- - [ ] restart & check Charleroi : **ALL** 
+- - [X] restart & check Charleroi : **ALL** 
 - - [ ] restart & check Rochefort : **ALL** 
 - - [ ] restart & check wixhou : **ALL**  
 - - [ ] restart & check Nivelles : **ALL** 
@@ -30,7 +30,7 @@
 - - [ ] restart & check Madeira : **ALL** 
 - - [ ] restart & check ppX : **ALL** 
 - [ ] restart PrintPack : Julien J
-- [ ] restart Mailid : Julien J
+- [X] restart Mailid : Julien J
 - [ ] restart webhook chez Mailjet : **isma**
 - [ ] restart Cron Linux : **Jimmy**
 - [ ] check Observium : 
