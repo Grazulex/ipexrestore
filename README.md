@@ -18,7 +18,7 @@
 - - [X] restore : Alexis
 - - [X] replication cluster : Alexis
 - - [X] check data : **Isma**
-- [ ] restart PP
+- [X] restart PP
 - - [X] restart ohain : **zak**
 - - [X] restart & check Charleroi : **ALL** 
 - - [X] restart & check Rochefort : **ALL** 
@@ -29,7 +29,7 @@
 - - [X] restart & check La Louviere : **ALL** 
 - - [X] restart & check Madeira : **ALL** 
 - - [X] restart & check Herstal : **ALL** 
-- [ ] restart PrintPack : Julien J
+- [X] restart PrintPack : Julien J
 - [X] restart Mailid : Julien J
 - [ ] check Observium : 
 - - [ ] api : **isma**
@@ -41,7 +41,7 @@
 - [ ] DB.b : importer depuis elastic : **isma/jimmy**
 - [X] PrintPack : éffacer/renommer les jobs toujours ouvert du 15/1 : Julien J--
 
-# Step 2b : last start AFTER import data
+# Step 2b si DB.b : last start AFTER import data
 - [ ] restart & check Grimbergen APRES IMPORTATION : **ALL** 
 - [ ] restart & check Maraidsous APRES IMPORTATION : **ALL** 
 - [ ] restart webhook chez Mailjet APRES IMPORTATION : **isma**
