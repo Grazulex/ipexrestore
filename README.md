@@ -43,8 +43,7 @@
 - [X] PrintPack : éffacer/renommer les jobs toujours ouvert du 15/1 : Julien J--
 
 # Step 2b si DB.b : last start AFTER import data
-- [ ] restart & check Grimbergen APRES IMPORTATION : **ALL** 
-- [ ] restart & check Maraidsous APRES IMPORTATION : **ALL** 
+- [ ] restart all PP services : **ALL**
 - [ ] restart webhook chez Mailjet APRES IMPORTATION : **isma**
 - [ ] restart Cron Linux APRES IMPORTATION : **Jimmy**
 
