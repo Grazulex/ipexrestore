@@ -95,13 +95,14 @@ Preference pour solution 1
 - - [ ] check system  : **?**
 
 ## Clients ayant tournés le weekend dernier :
-- [ ] UCM
-- [ ] KidsLife
-- [ ] Verisure
-- [ ] Luris
-- [ ] Mega
-- [ ] EuropA
-- [ ] MultiSend
-- [ ] FamiWal
+- [ ] UCM : **?**
+- [ ] KidsLife : **?**
+- [ ] Verisure : **?**
+- [ ] Luris : **?**
+- [ ] Mega : **?**
+- [ ] EuropA : **?**
+- [ ] MultiSend : **?**
+- [ ] FamiWal : **?**
+- [ ] Multisend : **?**
 * * *
 # lundi : analyse de l'incident
