@@ -3,7 +3,7 @@
 **vous ne faites rien sans mon accord please. on doit etre synchro**
 
 # Meeting
-- [ ] 10H : restore et distribution tâches
+- [X] 10H : restore et distribution tâches
 - [ ] 11H15 : final check system up/running
 
 # contact
