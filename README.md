@@ -21,14 +21,14 @@
 - [ ] restart PP
 - - [X] restart ohain : **zak**
 - - [X] restart & check Charleroi : **ALL** 
-- - [ ] restart & check Rochefort : **ALL** 
-- - [ ] restart & check wixhou : **ALL**  
+- - [X] restart & check Rochefort : **ALL** 
+- - [X] restart & check wixhou : **ALL**  
 - - [ ] restart & check Nivelles : **ALL** 
 - - [ ] restart & check La Louviere : **ALL** 
 - - [ ] restart & check Grimbergen : **ALL** 
 - - [ ] restart & check Maraidsous : **ALL** 
 - - [ ] restart & check Madeira : **ALL** 
-- - [ ] restart & check ppX : **ALL** 
+- - [X] restart & check Herstal : **ALL** 
 - [ ] restart PrintPack : Julien J
 - [X] restart Mailid : Julien J
 - [ ] restart webhook chez Mailjet : **isma**
