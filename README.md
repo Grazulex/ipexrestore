@@ -111,5 +111,7 @@ Preference pour solution 1
 - [ ] MultiSend : **?**
 - [ ] FamiWal : **?**
 - [ ] Multisend : **?**
+- [ ] Facq : **?**
+- [ ] Citadelle : **?**
 * * *
 # lundi : analyse de l'incident
