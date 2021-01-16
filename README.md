@@ -1,4 +1,7 @@
 16/01/2021 08:36
+# Meeting
+- [ ] 10H : restore et distribution tâches
+
 # Step 0 : inventory
 - [ ] il y a encore des crons qui tourne ? (voir les erreurs mails) merci de les identifier pour next time : **?**
 
@@ -80,7 +83,6 @@ Preference pour solution 1
 - - [ ] contacter sales/client : Sebastien Canivet
 - - - [ ] farid.elbrahmi@ores.be
 - - - [ ] KEVIN.MARISCHAL@ORES.BE
-- - [ ]
 - - [ ] check system  : **?**
 
 * * *
