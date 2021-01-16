@@ -4,7 +4,8 @@
 
 # Meeting
 - [X] 10H : restore et distribution tâches
-- [ ] 15H : final check system up/running
+- [X] 15H : final check system up/running
+- [ ] 16h30 : check import from elastic
 
 # contact
 - [ ] si problème printpack / mailid : contactez JJ please
@@ -16,7 +17,7 @@
 - [ ] restore db
 - - [X] restore : Alexis
 - - [X] replication cluster : Alexis
-- - [ ] check data : **Isma**
+- - [X] check data : **Isma**
 - [ ] restart PP
 - - [X] restart ohain : **zak**
 - - [ ] restart & check Charleroi : **ALL** 
