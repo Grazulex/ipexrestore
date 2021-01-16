@@ -4,42 +4,48 @@
 
 # Meeting
 - [ ] 10H : restore et distribution tâches
+- [ ] 11H15 : final check system up/running
+
+# contact
+- [ ] si problème printpack / mailid : contactez JJ please
 
 # Step 0 : inventory
 - [ ] il y a encore des crons qui tourne ? (voir les erreurs mails) merci de les identifier pour next time : **?**
 
 # Step 1 : system up
 - [ ] restore db
-- - [ ] restore : Alexis
-- - [ ] replication cluster : Alexis
-- - [ ] check data : **?**
+- - [X] restore : Alexis
+- - [X] replication cluster : Alexis
+- - [ ] check data : **Isma**
 - [ ] restart PP
-- - [ ] restart & check Charleroi : **?** 
-- - [ ] restart & check Rochefort : **?** 
-- - [ ] restart & check wixhou : **?**  
-- - [ ] restart & check Nivelles : **?** 
-- - [ ] restart & check La Louviere : **?** 
-- - [ ] restart & check Grimbergen : **?** 
-- - [ ] restart & check Maraidsous : **?** 
-- - [ ] restart & check Madeira : **?** 
-- - [ ] restart & check ppX : **?** 
+- - [ ] restart & check Charleroi : **ALL** 
+- - [ ] restart & check Rochefort : **ALL** 
+- - [ ] restart & check wixhou : **ALL**  
+- - [ ] restart & check Nivelles : **ALL** 
+- - [ ] restart & check La Louviere : **ALL** 
+- - [ ] restart & check Grimbergen : **ALL** 
+- - [ ] restart & check Maraidsous : **ALL** 
+- - [ ] restart & check Madeira : **ALL** 
+- - [ ] restart & check ppX : **ALL** 
 - [ ] restart PrintPack : Julien J
 - [ ] restart Mailid : Julien J
-- [ ] restart webhook chez Mailjet : **?**
-- [ ] restart Cron Linux
-- [ ] check Observium
+- [ ] restart webhook chez Mailjet : **isma**
+- [ ] restart Cron Linux : **Jimmy**
+- [ ] check Observium : 
+- - [ ] api : **isma**
+- - [ ] infra : **zak**
 - [ ] check logs error
 
 # Step 2 : check old job
-- [ ] DB : éffacer/mettre en test les jobs toujours temp du **14**/1 : **?**
-- [ ] PrintPack : éffacer/renommer les jobs toujours ouvert du 15/1 : Julien J
+- [ ] DB : éffacer/mettre en test les jobs toujours temp du **14**/1 : **isma/jimmy**
+- [X] PrintPack : éffacer/renommer les jobs toujours ouvert du 15/1 : Julien J
 
 # Step 3 : SFTP/LPR
 - [ ] restart SFTP/LPR
-- - [ ] restart SFTP : **?**
-- - [ ] restart LPR : **?**
-- - [ ] check File/ftp checker : **?** 
-- - [ ] activation alertes et autres SMS : **?**
+- - [ ] restart SFTP : **zak**
+- - [ ] restart LPR : **zak**
+- - [ ] check File/ftp checker : **Pierre G** 
+- - [ ] activation alertes et autres SMS : **zak**
 
 # Step 4 : communication system up
 - [ ] communication vers sales que le systeme est up/running (plus de data DB du 14/01 18h à ce jour). : **?**
