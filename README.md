@@ -23,7 +23,9 @@
 - - [X] restart & check Charleroi : **ALL** 
 - - [X] restart & check Rochefort : **ALL** 
 - - [X] restart & check wixhou : **ALL**  
-- - [ ] restart & check Nivelles : **ALL** 
+- - [X] restart & check Nivelles : **ALL** 
+- - [X] restart & check Corse : **ALL** 
+- - [C] restart & check Namur2 : **ALL** 
 - - [ ] restart & check La Louviere : **ALL** 
 - - [ ] restart & check Grimbergen : **ALL** 
 - - [ ] restart & check Maraidsous : **ALL** 
