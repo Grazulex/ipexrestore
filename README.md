@@ -7,7 +7,8 @@
 - [X] 15H : final check system up/running
 - [X] 16h30 : check import from elastic
 - [X] 18h30 : restart FTP/LPR
-- [ ] 19h : confirmation Partena/Ores
+- [X] 19h : confirmation Partena/Ores
+- [ ] 8h : confirmaton insertion files/documents & extra
 
 # contact
 - [ ] si problème printpack / mailid : contactez JJ please
