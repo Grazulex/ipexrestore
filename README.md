@@ -71,12 +71,16 @@ Preference pour solution 1
 
 ## Fednot
 - [ ] va renvoyer des fichier
-- - [ ] contacter sales/client : **?**
+- - [ ] contacter sales/client : Sebastien Canivet
+- - - [ ] Lidwin Do Hu : Lidwine.Do.Huu@fednot.be
 - - [ ] check system : **?**
 
 ## Ores
 - [ ] va renvoyer des fichier
-- - [ ] contacter sales/client : **?**
+- - [ ] contacter sales/client : Sebastien Canivet
+- - - [ ] farid.elbrahmi@ores.be
+- - - [ ] KEVIN.MARISCHAL@ORES.BE
+- - [ ]
 - - [ ] check system  : **?**
 
 * * *
