@@ -92,10 +92,10 @@ Preference pour solution 1
 - [ ] : pour Dimanche après-midi.**Pierre**
 
 ## Ethias
-- [ ] voir avec Julien V : **jms**
+- [X] voir avec Julien V : **jms**
 
 ## Somedi
-- [ ] gros job en cours : **Jimmy**
+- [X] gros job en cours : validation **Jimmy**
 
 ## Fednot
 - [ ] va renvoyer des fichier
@@ -114,24 +114,26 @@ Preference pour solution 1
 - - [ ] check system  : **?**
 
 ## Clients ayant tournés le weekend dernier :
-- [ ] UCM : produit OK
+- [X] UCM : produit OK
 - [X] KidsLife : job a lancer. ( normalement vendredi 21.00h )
 - [ ] Verisure : le dernier a tourné avant la coupure, le prochain sera lundi
-- - [ ] inegrité à verifier **qui?**
+- - [ ] integrité à verifier **qui?**
 - - [ ] rapport pour Lundi **qui?**
-- [ ] Luris : pas d'impact **Julien J**
+- [X] Luris : pas d'impact **Julien J**
 - [X] Mega : rien
 - [ ] EuropA : **Julien J**
 - [ ] MultiSend : refaire Job extra pour lundi 3.00h : pas d'impact **?**
-- - [ ] Vandessel : lancement manuel -job commplet- **Isma**
+- - [X] Vandessel : lancement manuel -job commplet- **Isma**
 - - [ ] DocDrop : 100 fichiers - à étudier -  lundi matin **olivier**
-- [ ] FamiWal : pas de job le week-end, le prochain sera Lundi à 5h du matin
-- [ ] Facq :  le client a envoyé un zip avec juste un fichier baseware que j'ai renvoyé à Ludo. Du coup le job qui a continué n'avait pas lieu d'être car pas de fichier. Je vais regarder pour mettre un blocage pour lorsque ce sera à nouveau le cas, mais il n'y a pas de job à relancer pour ce client 
-- [ ] Citadelle : a valider **?**
-- [ ] Ethias FullColor : **?**
-- [ ] Ethias : No impact
+- [X] FamiWal : pas de job le week-end, le prochain sera Lundi à 5h du matin
+- [X] Facq :  le client a envoyé un zip avec juste un fichier baseware que j'ai renvoyé à Ludo. Du coup le job qui a continué n'avait pas lieu d'être car pas de fichier. Je vais regarder pour mettre un blocage pour lorsque ce sera à nouveau le cas, mais il n'y a pas de job à relancer pour ce client 
+- [X] Citadelle : a valider **Jimmy**
+- [X] Ethias FullColor : Reporting Lundi **Julien V**
+- [X] Ethias : No impact
 - - [ ]Reporting 498 lundi **Julien V**
 - [X] Resa : Job Lundi 2.00h**Julien V**
-- - [ ] Valider que l'on a bien reçu tous les fichiers.
+- - [ ] Valider que l'on a bien reçu tous les fichiers. A faire Lundi.
+- [X] Single Deposit :**Jimmy**
+- - [X] AIV : Valider 
 * * *
 # lundi : analyse de l'incident
