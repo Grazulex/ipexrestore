@@ -80,7 +80,9 @@ Preference pour solution 1
 - [ ] call to Oliver and Raymond to give GO : **?**
 
 ## Partena 740
-- [ ] : **?**
+- [ ] : Produit mais pas en DB
+- - [ ] : 1003 pas d'extra
+- - [ ] : 1004 pas en DB
 
 ## Partena CAF
 - [ ] : **?**
@@ -96,6 +98,7 @@ Preference pour solution 1
 - - [ ] contacter sales/client : Sebastien Canivet
 - - - [ ] Lidwin Do Hu : Lidwine.Do.Huu@fednot.be
 - - [ ] check system : **?**
+- - [ ]le dernier a tourné avant la coupure, le prochain sera ce soir
 
 ## Ores
 - [ ] va renvoyer des fichier
@@ -107,14 +110,14 @@ Preference pour solution 1
 ## Clients ayant tournés le weekend dernier :
 - [ ] UCM : **?**
 - [ ] KidsLife : **?**
-- [ ] Verisure : **?**
+- [ ] Verisure : le dernier a tourné avant la coupure, le prochain sera lundi
 - [ ] Luris : **?**
 - [ ] Mega : **?**
 - [ ] EuropA : **?**
 - [ ] MultiSend : **?**
-- [ ] FamiWal : **?**
+- [ ] FamiWal : pas de job le week-end, le prochain sera Lundi à 5h du matin
 - [ ] Multisend : **?**
-- [ ] Facq : **?**
+- [ ] Facq :  le client a envoyé un zip avec juste un fichier baseware que j'ai renvoyé à Ludo. Du coup le job qui a continué n'avait pas lieu d'être car pas de fichier. Je vais regarder pour mettre un blocage pour lorsque ce sera à nouveau le cas, mais il n'y a pas de job à relancer pour ce client 
 - [ ] Citadelle : **?**
 * * *
 # lundi : analyse de l'incident
