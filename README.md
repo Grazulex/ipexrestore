@@ -60,7 +60,7 @@
 - - [X] activation alertes et autres SMS : **zak**
 
 # Step 4 : communication system up
-- [ ] communication vers sales que le systeme est up/running (plus de data DB du 14/01 18h à ce jour). : **?**
+- [X] communication vers sales que le systeme est up/running (plus de data DB du 14/01 18h à ce jour). : **?**
 
 les fichiers SFTP/LPR du 14/01 18h jusqu'à ce jour sont encore là mais plus en DB. 
 1. soit le client les reupload
@@ -85,9 +85,10 @@ Preference pour solution 1
 - [ ] : Produit mais pas en DB
 - - [ ] : 1003 pas d'extra
 - - [ ] : 1004 pas en DB
+- - [ ] : Rapport pour Lundi matin.
 
 ## Partena CAF
-- [ ] : **?**
+- [ ] : pour Dimanche après-midi.
 
 ## Ethias
 - [ ] voir avec Julien V : **jms**
@@ -101,25 +102,31 @@ Preference pour solution 1
 - - - [ ] Lidwin Do Hu : Lidwine.Do.Huu@fednot.be
 - - [ ] check system : **?**
 - - [ ]le dernier a tourné avant la coupure, le prochain sera ce soir
+- - [ ] Integrité du job a valider : **Baptiste** 
+- - [ ] Feedback : **Ludo** / **Baptiste**
 
 ## Ores
-- [ ] va renvoyer des fichier
-- - [ ] contacter sales/client : Sebastien Canivet
+- [X] va renvoyer des fichier
+- - [X] contacter sales/client : Sebastien Canivet
 - - - [ ] farid.elbrahmi@ores.be
 - - - [ ] KEVIN.MARISCHAL@ORES.BE
 - - [ ] check system  : **?**
 
 ## Clients ayant tournés le weekend dernier :
-- [ ] UCM : **?**
-- [ ] KidsLife : **?**
+- [ ] UCM : produit OK
+- [ ] KidsLife : job a lancer. ( normalement vendredi 21.00h )
 - [ ] Verisure : le dernier a tourné avant la coupure, le prochain sera lundi
-- [ ] Luris : **?**
-- [ ] Mega : **?**
-- [ ] EuropA : **?**
-- [ ] MultiSend : **?**
+- - [ ] inegrité à verifier **qui?**
+- - [ ] rapport pour Lundi **qui?**
+- [ ] Luris : pas d'impact **Julien J**
+- [ ] Mega : rien
+- [ ] EuropA : **Julien J**
+- [ ] MultiSend : refaire Job extra pour lundi 3.00h : pas d'impact **?**
+- - [ ] Vandessel : lancement manuel -job commplet- **qui?**
+- - [ ] DocDrop : 100 fichiers - à étudier -  lundi matin **olivier**
 - [ ] FamiWal : pas de job le week-end, le prochain sera Lundi à 5h du matin
-- [ ] Multisend : **?**
 - [ ] Facq :  le client a envoyé un zip avec juste un fichier baseware que j'ai renvoyé à Ludo. Du coup le job qui a continué n'avait pas lieu d'être car pas de fichier. Je vais regarder pour mettre un blocage pour lorsque ce sera à nouveau le cas, mais il n'y a pas de job à relancer pour ce client 
-- [ ] Citadelle : **?**
+- [ ] Citadelle : a valider **?**
+- [ ] Ethias FullColor : **?**
 * * *
 # lundi : analyse de l'incident
