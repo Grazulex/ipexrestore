@@ -46,9 +46,9 @@
 - ~~[ ] PrintPack : éffacer/renommer les jobs toujours ouvert du 15/1 : Julien J~~--
 
 # Step 2b si DB.b : last start AFTER import data
-- [ ] restart all PP services : **ALL**
-- [ ] restart webhook chez Mailjet APRES IMPORTATION : **isma**
-- [ ] restart Cron Linux APRES IMPORTATION : **Jimmy**
+- [X] restart all PP services : **ALL**
+- [X] restart webhook chez Mailjet APRES IMPORTATION : **isma**
+- [X] restart Cron Linux APRES IMPORTATION : **Jimmy**
 
 # Step 3 : SFTP/LPR
 - [ ] restart SFTP/LPR
