@@ -9,7 +9,8 @@
 - [X] 18h30 : restart FTP/LPR
 - [X] 19h : confirmation Partena/Ores
 - [X] 9h30 : confirmaton insertion files/documents & extra
-- [ ] 10h15 : Go prod
+- [X] 10h15 : Go prod
+- [ ] 10h45 : check clients
 
 # contact
 - [ ] si problème printpack / mailid : contactez JJ please
@@ -51,11 +52,11 @@
 - [X] restart Cron Linux APRES IMPORTATION : **Jimmy**
 
 # Step 3 : SFTP/LPR
-- [ ] restart SFTP/LPR
-- - [ ] restart SFTP : **zak**
-- - [ ] restart LPR : **zak**
-- - [ ] check File/ftp checker : **Pierre G** 
-- - [ ] activation alertes et autres SMS : **zak**
+- [X] restart SFTP/LPR
+- - [X] restart SFTP : **zak**
+- - [X] restart LPR : **zak**
+- - [X] check File/ftp checker : **Pierre G** 
+- - [X] activation alertes et autres SMS : **zak**
 
 # Step 4 : communication system up
 - [ ] communication vers sales que le systeme est up/running (plus de data DB du 14/01 18h à ce jour). : **?**
