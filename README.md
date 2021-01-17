@@ -8,7 +8,7 @@
 - [X] 16h30 : check import from elastic
 - [X] 18h30 : restart FTP/LPR
 - [X] 19h : confirmation Partena/Ores
-- [ ] 8h : confirmaton insertion files/documents & extra
+- [ ] 9h : confirmaton insertion files/documents & extra
 
 # contact
 - [ ] si problème printpack / mailid : contactez JJ please
@@ -40,9 +40,9 @@
 - [ ] check logs error
 
 # Step 2 : check old job OR import from elastic
-- [ ] DB.a : éffacer/mettre en test les jobs toujours temp du **14**/1 : **isma/jimmy**
+- ~~[ ] DB.a : éffacer/mettre en test les jobs toujours temp du **14**/1 : **isma/jimmy**~~
 - [ ] DB.b : importer depuis elastic : **isma/jimmy**
-- [X] PrintPack : éffacer/renommer les jobs toujours ouvert du 15/1 : Julien J--
+- ~~[ ] PrintPack : éffacer/renommer les jobs toujours ouvert du 15/1 : Julien J~~--
 
 # Step 2b si DB.b : last start AFTER import data
 - [ ] restart all PP services : **ALL**
