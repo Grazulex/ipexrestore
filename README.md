@@ -8,7 +8,8 @@
 - [X] 16h30 : check import from elastic
 - [X] 18h30 : restart FTP/LPR
 - [X] 19h : confirmation Partena/Ores
-- [ ] 9h : confirmaton insertion files/documents & extra
+- [X] 9h30 : confirmaton insertion files/documents & extra
+- [ ] 10h15 : Go prod
 
 # contact
 - [ ] si problème printpack / mailid : contactez JJ please
@@ -34,14 +35,14 @@
 - - [X] restart & check Herstal : **ALL** 
 - [X] restart PrintPack : Julien J
 - [X] restart Mailid : Julien J
-- [ ] check Observium : 
-- - [ ] api : **isma**
+- [X] check Observium : 
+- - [X] api : **isma**
 - - [X] infra : **zak**
-- [ ] check logs error
+- [X] check logs error
 
 # Step 2 : check old job OR import from elastic
 - ~~[ ] DB.a : éffacer/mettre en test les jobs toujours temp du **14**/1 : **isma/jimmy**~~
-- [ ] DB.b : importer depuis elastic : **isma/jimmy**
+- [X] DB.b : importer depuis elastic : **isma/jimmy**
 - ~~[ ] PrintPack : éffacer/renommer les jobs toujours ouvert du 15/1 : Julien J~~--
 
 # Step 2b si DB.b : last start AFTER import data
