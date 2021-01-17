@@ -11,7 +11,7 @@
 - [X] 9h30 : confirmaton insertion files/documents & extra
 - [X] 10h15 : Go prod
 - [X] 10h45 : check clients
-- [ ] 18h30 : check prod
+- [X] 18h30 : check prod
 
 # contact
 - [ ] si problème printpack / mailid : contactez JJ please
