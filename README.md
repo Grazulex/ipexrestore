@@ -81,21 +81,23 @@ Preference pour solution 1
 - [ ] check if system running : **?**
 - [ ] call to Oliver and Raymond to give GO : **?**
 - [ ] reporting à revoire : lundi **Julien V**
+- [ ] Prod 300 **Julien V**
 
 ## Partena 740
 - [X] : Produit mais pas en DB -sur Robert-
-- - 1003 pas d'extra
-- - 1004 pas en DB
+- - 1003 pas d'extra : expedier vendredi
+- - 1004 pas en DB : rapport pour lundi.
 - - [ ] : Rapport pour Lundi matin.
 
 ## Partena CAF
-- [ ] : pour Dimanche après-midi.**Pierre**
+- [ ] : pour Dimanche après-midi.**Pierre** - a valider.
 
 ## Ethias
-- [X] voir avec Julien V : **jms**
+- [X] voir avec Julien V : **jms** : tout ok sauf rapport pour lundi
 
 ## Somedi
-- [X] gros job en cours : validation **Jimmy**
+- [X] gros job en cours : validation **Jimmy** 
+- - job a tourné la nuit de jeudi à vendredi.
 
 ## Fednot
 - [ ] va renvoyer des fichier
@@ -104,7 +106,9 @@ Preference pour solution 1
 - - [ ] check system : **?**
 - - [ ]le dernier a tourné avant la coupure, le prochain sera ce soir
 - - [ ] Integrité du job a valider : **Baptiste** 
-- - [ ] Feedback : **Ludo** / **Baptiste**
+- - [ ] ( jeudi ) Feedback : manque reference mailID - erreur humaine- à valider. **Ludo** / **Baptiste**
+- - [ ] job du vendredi : moins de document que ce qu'il y a dans l'API : **Ludo** / **Baptiste**
+- - [ ] job de ce soir : OK.
 
 ## Ores
 - [X] va renvoyer des fichier
@@ -112,19 +116,22 @@ Preference pour solution 1
 - - - [ ] farid.elbrahmi@ores.be
 - - - [ ] KEVIN.MARISCHAL@ORES.BE
 - - [ ] check system  : **?**
+- - [ ] pas de fichier sur le FTP : à checker avec Ores.
 
 ## Clients ayant tournés le weekend dernier :
 - [X] UCM : produit OK
 - [X] KidsLife : job a lancer. ( normalement vendredi 21.00h )
 - [ ] Verisure : le dernier a tourné avant la coupure, le prochain sera lundi
-- - [ ] integrité à verifier **qui?**
-- - [ ] rapport pour Lundi **qui?**
+- - [X] integrité à verifier **Baptiste**
+- - [ ] rapport pour Lundi **Baptiste**
 - [X] Luris : pas d'impact **Julien J**
 - [X] Mega : rien
-- [ ] EuropA : **Julien J**
+- [X] EuropA : **Julien J**
+- - Dernier Job : vendredi matin **Julien J**
 - [ ] MultiSend : refaire Job extra pour lundi 3.00h : pas d'impact **?**
 - - [X] Vandessel : lancement manuel -job commplet- **Isma**
 - - [ ] DocDrop : 100 fichiers - à étudier -  lundi matin **olivier**
+- - [ ] mail Olivier : bloquer le depot du Multisend **Sébastien**
 - [X] FamiWal : pas de job le week-end, le prochain sera Lundi à 5h du matin
 - [X] Facq :  le client a envoyé un zip avec juste un fichier baseware que j'ai renvoyé à Ludo. Du coup le job qui a continué n'avait pas lieu d'être car pas de fichier. Je vais regarder pour mettre un blocage pour lorsque ce sera à nouveau le cas, mais il n'y a pas de job à relancer pour ce client 
 - [X] Citadelle : a valider **Jimmy**
@@ -135,5 +142,8 @@ Preference pour solution 1
 - - [ ] Valider que l'on a bien reçu tous les fichiers. A faire Lundi.
 - [X] Single Deposit :**Jimmy**
 - - [X] AIV : Valider 
+- [ ] Partena 2020 : demander au client un réenvoie.
 * * *
+status Mail entre 14-01 18.00h et 15-01 18.30h : perte des status (sauf via mailjet) -uniquement preuve d'envoie idem pour A.M.
+* * * 
 # lundi : analyse de l'incident
