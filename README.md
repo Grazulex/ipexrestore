@@ -83,7 +83,7 @@ Preference pour solution 1
 - [ ] reporting à revoire : lundi **Julien V**
 
 ## Partena 740
-- [ ] : Produit mais pas en DB
+- [X] : Produit mais pas en DB -sur Robert-
 - - 1003 pas d'extra
 - - 1004 pas en DB
 - - [ ] : Rapport pour Lundi matin.
@@ -129,7 +129,9 @@ Preference pour solution 1
 - [ ] Facq :  le client a envoyé un zip avec juste un fichier baseware que j'ai renvoyé à Ludo. Du coup le job qui a continué n'avait pas lieu d'être car pas de fichier. Je vais regarder pour mettre un blocage pour lorsque ce sera à nouveau le cas, mais il n'y a pas de job à relancer pour ce client 
 - [ ] Citadelle : a valider **?**
 - [ ] Ethias FullColor : **?**
-- [ ] Ethias : Reporting 498 lundi **Julien V**
+- [ ] Ethias : No impact
+- - [ ]Reporting 498 lundi **Julien V**
 - [X] Resa : Job Lundi 2.00h**Julien V**
+- - [ ] Valider que l'on a bien reçu tous les fichiers.
 * * *
 # lundi : analyse de l'incident
