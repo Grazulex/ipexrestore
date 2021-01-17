@@ -10,7 +10,8 @@
 - [X] 19h : confirmation Partena/Ores
 - [X] 9h30 : confirmaton insertion files/documents & extra
 - [X] 10h15 : Go prod
-- [ ] 10h45 : check clients
+- [X] 10h45 : check clients
+- [ ] 18h30 : check prod
 
 # contact
 - [ ] si problème printpack / mailid : contactez JJ please
